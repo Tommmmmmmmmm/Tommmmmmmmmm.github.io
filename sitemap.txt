@@ -1,3 +1,4 @@
+http://example.com/2023/02/25/IoC/
 http://example.com/tags/index.html
 http://example.com/messageboard/index.html
 http://example.com/categories/index.html
